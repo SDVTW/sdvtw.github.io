@@ -26,7 +26,7 @@
 	
 	@keyframes load {
 		0% { width: 0; }
-		100% { width: 5%; }
+		100% { width: 10%; }
 	}
 
 	/* 詳細列表 */
@@ -47,7 +47,7 @@
 	.tooltip .tooltiptext {
 		visibility: hidden;
 		width: auto;
-		max-width: 20em;
+		max-width: 16em;
 		background-color: rgba(0, 0, 0, 0.7);
 		text-align: left;
 		font-size: 80%;
